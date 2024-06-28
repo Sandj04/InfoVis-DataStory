@@ -3,7 +3,11 @@
 
 title: Mo Green Mo Stress # Change this to your book title.
 author: InfoVis B1 # Change this to your name (or your team/organization name).
-copyright: "2024" 
+copyright: "2024"
+logo: static/images/logo.jpg
+html:
+  favicon: static/images/favicon.ico
+  use_repository_button: true" 
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
