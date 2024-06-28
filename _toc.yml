@@ -5,5 +5,7 @@ format: jb-book
 root: docs/introductie
 chapters:
 - file: docs/datasets
-- file: docs/format
+- file: docs/main
+- file: docs/reflectie
+- file: docs/distrobutie
 
